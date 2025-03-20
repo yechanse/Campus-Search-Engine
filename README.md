@@ -1,4 +1,4 @@
-# Mini Search Engine
+# Campus Search Engine
 * For the search engine, I managed the parsing data through data pre-processing into pickle (.pkl) files into "cache." 
 * I processed crawling, indexing, retrieval, and concepts of classification and clustering of text documents with local json files that parsed the UCI website, which are >10 GB size. 
 * The main essence of this search engine is designing efficient data structures, devising efficient file access, and balancing memory us-age and response time.
